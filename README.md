@@ -1,4 +1,4 @@
-Criar o projeto apontando para o link desse repositório, dessa forma:
+𝐂𝐫𝐢𝐚𝐫 𝐨 𝐩𝐫𝐨𝐣𝐞𝐭𝐨 𝐚𝐩𝐨𝐧𝐭𝐚𝐧𝐝𝐨 𝐩𝐚𝐫𝐚 𝐨 𝐥𝐢𝐧𝐤 𝐝𝐞𝐬𝐬𝐞 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨́𝐫𝐢𝐨, 𝐝𝐞𝐬𝐬𝐚 𝐟𝐨𝐫𝐦𝐚:
 yarn create next-app -e https://github.com/Jeimissonb/boilerplate.git
 
 
