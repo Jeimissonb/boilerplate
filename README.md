@@ -1,3 +1,7 @@
+Criar o projeto apontando para o link desse repositório, dessa forma:
+yarn create next-app -e https://github.com/Jeimissonb/boilerplate.git
+
+
 
 ![React Avançado](https://raw.githubusercontent.com/React-Avancado/boilerplate/master/public/img/logo-gh.svg)
 
